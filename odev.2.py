@@ -25,7 +25,7 @@ print(metin)
 print(f"Merhaba {isim}")
 
 
-krediler = ["İhtiyaç Kredisi","Taşıt Kredisi","Konut Kredisi"]
+krediler = ["İhtiyaç Kredisi","Tasit Kredisi","Konut Kredisi"]
 print(type(krediler))
 
 print(krediler[0])
